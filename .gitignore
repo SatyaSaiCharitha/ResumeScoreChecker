@@ -1,0 +1,16 @@
+# Virtual environment
+resumechecker/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.idea/
+
+# Environment variables
+.env
+
+# Mac files
+.DS_Store
