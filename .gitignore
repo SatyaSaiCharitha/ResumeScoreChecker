@@ -9,8 +9,16 @@ __pycache__/
 # IDE files
 .idea/
 
-# Environment variables
-.env
-
 # Mac files
 .DS_Store
+
+# Dataset
+data/
+
+# Saved ML models
+saved_models/
+*.pkl
+*.joblib
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
